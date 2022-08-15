@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "01GAHJEVWP4VXDH2V86ZD63JEG",
+      "content": "test",
+      "done": false
+    },
+    {
+      "id": "01GAHJEZ82PFHFBYD0PQWYA8FK",
+      "content": "test1",
+      "done": true
+    }
+  ]
+}
