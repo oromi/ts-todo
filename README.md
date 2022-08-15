@@ -1,11 +1,11 @@
-#ts-todo
+# ts-todo
 
-##start server
+## start server
 ```
 npx json-server db.json --port 3100
 ```
 
-##start app
+## start app
 ```
 npm start
 ```
